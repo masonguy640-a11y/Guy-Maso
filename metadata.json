@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Macarthur — Southwest Sydney Late-Night Dating",
+  "description": "Exclusive late-night dating, unlimited chat, random video roulette, and live stream lounge for Southwest Sydney women (Grandmas, Nannies, Mothers, Expecting) and the verified VIP gentleman.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
